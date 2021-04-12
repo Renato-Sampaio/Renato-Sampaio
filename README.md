@@ -13,7 +13,7 @@ Meu nome é Renato Duarte Sampaio, atualmente estudo Análise e Desenvolvimento 
 - ⚙️ Mastering: `.java`,`.spring`
 
 ### 🛠️ Ferramentas Utilizadas.
-<a href=""><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/javascript/javascript-ar21.svg"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"><img src="https://www.vectorlogo.zone/logos/mit_scratch/mit_scratch-ar21.svg"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a>
 
 <!-- Contatos de Rede Sociais -->
 ### 🔍 Aonde me encontrar ?
