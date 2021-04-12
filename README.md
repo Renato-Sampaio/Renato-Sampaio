@@ -9,7 +9,7 @@ Meu nome é Renato Duarte Sampaio, atualmente estudo Análise e Desenvolvimento 
 - ⚙️ Mastering: `.java`,`.spring`
 
 #### 🔍 Aonde me encontrar ?
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/renato-sampaio-52266b11a/) [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/renato.superfera)[![Instagram](https://img.shields.io/badge/--instragram?label=Intragram&logo=Instagram&style=social)](https://www.instagram.com/_rduartesam_/) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/renato-sampaio-52266b11a/) [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/renato.superfera) [![Instagram](https://img.shields.io/badge/--instragram?label=Intragram&logo=Instagram&style=social)](https://www.instagram.com/_rduartesam_/) 
 
 
 ![Renato Sampaio github stats](https://github-readme-stats.vercel.app/api?username=renato-sampaio&show_icons=true&hide_border=true)
