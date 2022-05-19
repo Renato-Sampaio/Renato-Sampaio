@@ -6,7 +6,8 @@
  ![JAVA](https://img.shields.io/badge/JAVA-PLENO-red) ![HTML](https://img.shields.io/badge/HTML-PLENO-orange) ![CSS](https://img.shields.io/badge/CSS-PLENO-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-PLENO-yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-JUNIOR-lightgrey)  <img src="https://komarev.com/ghpvc/?username=Renato-Sampaio&label=Profile%20views&color=0e75b6&style=social" alt="Renato Duarte Sampaio" /> 
 
 <!-- Descrição -->
-Meu nome é Renato Duarte Sampaio, tenho 25 anos, sou formado em  Análise e Desenvolvimento de Sistemas na [Universidade Nove de Julho](https://www.uninove.br/). e sou Desenvolvedor Pleno - FullStack na [RADIX](https://www.radixeng.com.br/)
+Meu nome é Renato Duarte Sampaio, tenho 25 anos,Casado e formado em  Análise e Desenvolvimento de Sistemas na [Universidade Nove de Julho](https://www.uninove.br/). e sou Desenvolvedor Pleno - FullStack na [RADIX](https://www.radixeng.com.br/).
+
 Amo oque faço, tenho possuo um vasto conhecimento em WEB, NODE JS, JAVA, Spring e Spring Boot, HTML5, CSS3, Javascript, TypeScript, React e ReactJS.
 
 - 📚 Estou estudando atualmente **JAVA** and **REACT.JS**
